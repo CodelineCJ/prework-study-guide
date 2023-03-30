@@ -1,7 +1,7 @@
 # prework-study-guide
 A study guide for UTSA pre work.
 
-## <Introduction to Coding>
+# <Introduction to Coding>
 The structural lines of Coding and what they do.
 
 ## Description
